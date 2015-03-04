@@ -2,7 +2,7 @@
 <!DOCTYPE hibernate-mapping PUBLIC
         "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
         "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
-<hibernate-mapping package="com.seba.model">
+<hibernate-mapping package="com.seba.springrest.model">
 	<class name="User" table="USER_TABLE">
 		<id name="id" column="USER_ID">
 			<generator class="increment"/>

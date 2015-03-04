@@ -13,6 +13,6 @@ public interface UserDao {
 	
 	public void save(User user);
 	
-	public List<User> list();
+	public List<User> getAll();
 
 }

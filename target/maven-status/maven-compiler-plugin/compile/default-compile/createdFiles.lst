@@ -1,0 +1,5 @@
+com\seba\springrest\controller\UserController.class
+com\seba\springrest\dao\UserDaoImpl.class
+com\seba\springrest\model\User.class
+com\seba\springrest\dao\UserDao.class
+com\seba\springrest\service\UserService.class
